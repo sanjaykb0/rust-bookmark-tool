@@ -1,0 +1,1 @@
+/Users/sk/Code/rust-bookmark-tool/target/debug/rust-bookmark-tool: /Users/sk/Code/rust-bookmark-tool/src/main.rs /Users/sk/Code/rust-bookmark-tool/src/utils/github.rs /Users/sk/Code/rust-bookmark-tool/src/utils/google.rs /Users/sk/Code/rust-bookmark-tool/src/utils/mod.rs /Users/sk/Code/rust-bookmark-tool/src/utils/twitter.rs
